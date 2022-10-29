@@ -1,0 +1,11 @@
+* {
+    /* Alle elementen krijg 0 marge */
+    margin: 0px;
+
+    /* Alleen nodig voor content-left/right class */
+    box-sizing: border-box;
+}
+
+p {
+    margin-top: 10px;
+}
